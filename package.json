@@ -1,0 +1,14 @@
+{
+  "name": "get-ele",
+  "version": "1.0.0",
+  "description": "",
+  "main": "get-ele.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.9.11"
+  }
+}
