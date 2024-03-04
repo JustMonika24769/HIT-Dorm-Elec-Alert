@@ -9,8 +9,8 @@ module.exports = {
     web: {
         hostname: 'ele.hit.edu.cn', // 网页的hostname
         port: 80, // 端口,如果是https，需要改为443
-        path: '/eleServer/api/roomMea.htm?rId=123', // 请求的路径
-        cookie: 'XXXXXXXXXXXXXXXXXXXXXXXXX' // Cookie信息
+        path: '/eleServer/api/XXXXXXXXXXXXX', // 请求的路径
+        cookie: 'XXXXXXXXXXXXXXXXXXXXXXXXX' // Cookie信息，需要自行从查询终端中获取，获取前需要选择好宿舍号。
     },
     dormNum: '123', // 宿舍号
     dataNode: 'surplusPayAmt', // 待提取数据的JSON节点名字
