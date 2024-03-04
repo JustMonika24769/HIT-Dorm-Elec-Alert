@@ -1,0 +1,11 @@
+[Unit]
+Description=Node.js Get Electricity Service
+
+[Service]
+ExecStart=/usr/bin/node /path/to/your/script/get-ele.js
+Restart=always
+RestartSec=60s
+User=root
+
+[Install]
+WantedBy=default.target

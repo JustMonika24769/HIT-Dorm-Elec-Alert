@@ -1,2 +1,2 @@
-node get-ele.js
+node get-elec.js
 pause
