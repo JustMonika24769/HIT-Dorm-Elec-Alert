@@ -2,7 +2,7 @@
 Description=Node.js Get Electricity Service
 
 [Service]
-ExecStart=/usr/bin/node /path/to/your/script/get-ele.js
+ExecStart=/usr/bin/node /path/to/your/script/get-elec.js
 Restart=always
 RestartSec=60s
 User=root
