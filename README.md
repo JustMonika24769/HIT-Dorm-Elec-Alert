@@ -1,4 +1,4 @@
-# HIT-Electricity-Bill-Inquiry
+# HIT-Dorm-Elec-Alert
 
 自动检查宿舍的剩余电费，并在电费达到预设的预警值时向设定的邮箱发送预警邮件。
 
