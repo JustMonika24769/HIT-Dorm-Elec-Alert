@@ -8,7 +8,7 @@
 
 ## 脚本
 
-`get-ele.js` 是主要脚本。如果请求的协议是 HTTPS，那么需要在脚本中自行修改，默认为 HTTP。
+`get-elec.js` 是主要脚本。如果请求的协议是 HTTPS，那么需要在脚本中自行修改，默认为 HTTP。
 
 ## 示例配置文件
 
@@ -16,7 +16,7 @@
 
 ## Windows 启动脚本
 
-`start.bat` 是用于在 Windows 系统中启动`get-ele.js`的启动脚本。启动成功的前提是已经安装了 nodejs 并且配置好了环境变量。
+`start.bat` 是用于在 Windows 系统中启动`get-elec.js`的启动脚本。启动成功的前提是已经安装了 nodejs 并且配置好了环境变量。
 
 ## Linux 启动脚本
 
@@ -24,4 +24,4 @@
 
 ## Linux 服务
 
-`get-elec.service` 是服务文件，用于在 Linux 系统中自动启动脚本。请在使用前自行配置 nodejs 路径和 `get-ele.js` 路径。
+`get-elec.service` 是服务文件，用于在 Linux 系统中自动启动脚本。请在使用前自行配置 nodejs 路径和 `get-elec.js` 路径。
